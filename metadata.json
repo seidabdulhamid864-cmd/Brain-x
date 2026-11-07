@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Master 16 smart learning strategies and 8 core study habits with personalized study paths, active practice tools, and comprehensive progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
